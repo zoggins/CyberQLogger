@@ -1,2 +1,2 @@
 # CyberQLogger
-Logger for BBQGuru Cyber Q Wifi
+Logger for BBQ Guru CyberQ Wifi Temperature Controller
